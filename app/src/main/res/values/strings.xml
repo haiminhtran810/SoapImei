@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SoapImei</string>
+    <string name="title">Imei : </string>
+    <string name="send">Send</string>
+</resources>
